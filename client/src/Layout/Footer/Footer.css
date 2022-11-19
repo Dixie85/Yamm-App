@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    background-color: #2d3436;
+    color: whitesmoke;
+    border-top: 1px solid rgba(128, 128, 128, 0.655);
+    justify-items: end;
+  
+  }

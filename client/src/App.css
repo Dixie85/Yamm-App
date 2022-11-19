@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  display: flex;
+  border-bottom: .5px solid rgba(128, 128, 128, 0.664);
+}

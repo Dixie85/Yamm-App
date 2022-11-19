@@ -1,0 +1,11 @@
+.recipeList {
+  overflow: hidden;
+  padding: 0 0.3rem;
+}
+
+@media screen and (min-width: 481px) {
+    
+  .recipeList {
+    padding: 0 0.6rem;
+  }
+}

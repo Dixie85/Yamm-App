@@ -1,0 +1,19 @@
+.header {
+  color: #e64d4dcd;
+  min-height: 13vh;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.655);
+  display: flex;
+  align-items: center;
+  padding: 0 .4rem;
+}
+
+.header__h2 {
+  margin-left: 1rem;
+  font-size: 2.5rem;
+
+}
+
+@media screen and (min-width: 481px) {
+
+
+}

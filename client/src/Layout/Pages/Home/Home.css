@@ -1,0 +1,25 @@
+.main {
+  /* width: 100%; */
+  padding: 0 0.5rem;
+  min-height: 79vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__h1{
+  color: lightcoral;
+  font-size: 2rem;
+}
+
+.main__img{
+  max-width: 80vw;
+}
+
+@media screen and (min-width: 481px) {
+  .main {
+    padding: 0 1rem;
+    /* height: 75vh; */
+  }
+}

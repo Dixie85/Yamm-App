@@ -1,0 +1,25 @@
+.login{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.login__form{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.login__input{
+    background-color: rgba(128, 128, 128, 0.125);
+    border: none;
+    border-radius: 3px;
+    height: 23px;
+    width: 40vw;
+    margin: .4rem 0;
+}
